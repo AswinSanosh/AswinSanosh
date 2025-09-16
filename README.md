@@ -8,10 +8,10 @@
 
 ## 👔 Professional Experience  
 
-- 🚀 **Founder** @ [Helekin](helekin.in) *(Aug 2025 – Present)*  
+- 🚀 **Founder** @ [Helekin](https://helekin.in/) *(Aug 2025 – Present)*  
    Building innovative solutions in **start-up leadership**.  
 
-- 👨‍🏫 **Software Mentor** @ [Tessat Space Pvt. Ltd.](tessat.space) *(Feb 2025 – Present)*  
+- 👨‍🏫 **Software Mentor** @ [Tessat Space Pvt. Ltd.](https://tessat.space/)) *(Feb 2025 – Present)*  
    Mentoring students & developers in **software engineering & system design**.  
 
 - 🌐 **Webmaster** @ IEEE CS SBC, Saintgits College of Engineering *(Dec 2024 – Present)*  
