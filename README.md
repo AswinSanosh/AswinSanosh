@@ -1,16 +1,81 @@
-## Hi there 👋
+# 👋 Hi, I'm Aswin Sanosh  
 
-<!--
-**AswinSanosh/AswinSanosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 A passionate **Software Developer, Mentor, and Entrepreneur** from Kerala, India.  
+⚡ Currently exploring **AI, Cloud, and Scalable Systems** while contributing to tech communities.  
+🌍 I believe in building impactful solutions that bridge technology with real-world needs.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👔 Professional Experience  
+
+- 🚀 **Founder** @ [Helekin](#) *(Aug 2025 – Present)*  
+   Building innovative solutions in **start-up leadership**.  
+
+- 👨‍🏫 **Software Mentor** @ [Tessat Space Pvt. Ltd.](#) *(Feb 2025 – Present)*  
+   Mentoring students & developers in **software engineering & system design**.  
+
+- 🌐 **Webmaster** @ IEEE CS SBC, Saintgits College of Engineering *(Dec 2024 – Present)*  
+   Driving technical leadership in **web technologies & community building**.  
+
+- 📚 **Teacher (Part-time)** @ Gurukulam Tuition Centre *(Feb 2024 – Present)*  
+   Teaching **Physics & Computer Science** with a focus on conceptual clarity.  
+
+- 🌏 **Intern** @ National Chung Cheng University, Taiwan *(Jul 2024 – Sep 2024)*  
+   Research & development internship under **Taiwan Education & Experience Program (TEEP)**.  
+   Worked with **React.js, PostgreSQL, and scalable backend systems**.  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AswinSanosh&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=79FF97&text_color=A9FEF7" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AswinSanosh&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" height="180px" />
+</p>
+
+---
+
+## 💻 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinSanosh&layout=donut-vertical&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=A9FEF7&hide_border=true" height="250px"/>
+</p>
+
+---
+
+## 🏆 Achievements & Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AswinSanosh&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 🚀 Tools & Technologies  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,python,django,html,css,tailwind,git,github,docker,postgresql,linux" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/aswinsanosh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aswinsanosh@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://portfolio.example.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+## 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinSanosh&theme=radical&bg_color=0D1117&title_color=F85D7F&color=A9FEF7&line=79FF97&point=F85D7F" />
+</p>
+
+---
+
+## ✨ About Me  
+> *“Technology is not just about code — it’s about creating value, solving problems, and inspiring people.”*  
+
+📍 Based in Kerala, India  
+🌱 Currently learning **AI/ML, Cloud Architecture, and Scalable SaaS Design**  
+🤝 Open to collaboration on **Open Source, AI, and Product Development**  
+
+---
