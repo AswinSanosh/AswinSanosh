@@ -28,15 +28,15 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AswinSanosh&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=79FF97&text_color=A9FEF7" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AswinSanosh&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AswinSanosh&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=79FF97&text_color=A9FEF7&cache_seconds=60" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AswinSanosh&count_private=true&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" height="180px" />
 </p>
 
 ---
 
 ## 💻 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinSanosh&layout=donut-vertical&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=A9FEF7&hide_border=true" height="250px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinSanosh&count_private=true&layout=donut-vertical&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=A9FEF7&hide_border=true" height="250px"/>
 </p>
 
 ---
@@ -66,7 +66,7 @@
 
 ## 📈 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinSanosh&theme=radical&bg_color=0D1117&title_color=F85D7F&color=A9FEF7&line=79FF97&point=F85D7F" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinSanosh&count_private=true&theme=radical&bg_color=0D1117&title_color=F85D7F&color=A9FEF7&line=79FF97&point=F85D7F" />
 </p>
 
 ---
