@@ -41,6 +41,13 @@
 
 ---
 
+## 🧮 Total Contributions (Including Private)
+<p align="center">
+  <img src="https://metrics.lecoq.io/AswinSanosh?template=classic&config.timezone=Asia%2FKolkata&repositories.forks=true&repositories.affiliations=owner,collaborator,organization_member&base=activity,community,repositories&isocalendar=1&isocalendar.duration=full-year&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&config.animated=true&config.display=columns" alt="Aswin Sanosh's GitHub Metrics" />
+</p>
+
+---
+
 ## 🏆 Achievements & Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AswinSanosh&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
