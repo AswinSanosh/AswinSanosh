@@ -16,8 +16,8 @@
   <br />
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aswinsanosh&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinsanosh&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AswinSanosh&theme=radical" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinSanosh&theme=react-dark&hide_border=true&area=true" width="400" alt="Activity Graph" />
   </div>
 
 </div>
@@ -171,6 +171,14 @@ Full Stack Developer, AI/ML Developer, and 3D Artist with strong experience in b
 - 🤖 **Machine Learning & Data Science** – Udemy
 - 🔌 **Electronics and PCB Design** – Udemy
 - 🏆 **Winner – Meta SparkAR Competition** (April 2021)
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinSanosh&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
 
 ---
 
