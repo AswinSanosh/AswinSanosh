@@ -32,6 +32,15 @@ Full Stack Developer, AI/ML Developer, and 3D Artist with strong experience in b
 
 ---
 
+### 📞 Contact Details
+- 📧 **Email**: [aswinsanosh97@gmail.com](mailto:aswinsanosh97@gmail.com)
+- 📱 **Phone**: [+91 89439 63650](tel:+918943963650)
+- 🔗 **LinkedIn**: [linkedin.com/in/aswinsanosh](https://www.linkedin.com/in/aswinsanosh)
+- 📂 **GitHub**: [github.com/AswinSanosh](https://github.com/AswinSanosh)
+- 📍 **Location**: Ernakulam (Kochi), Kerala, India
+
+---
+
 ### 🛠️ Technical Skills
 
 <details open>
@@ -50,7 +59,7 @@ Full Stack Developer, AI/ML Developer, and 3D Artist with strong experience in b
 <ul>
   <li><b>Libraries</b>: NumPy, Pandas, SciPy, Scikit-learn, TensorFlow, PyTorch</li>
   <li><b>Computer Vision</b>: OpenCV, YOLOv8, Hugging Face Transformers</li>
-  <li><b>Operations</b>: MLflow, Physics-Informed AI, Unsupervised Learning</li>
+  <li><b>Specializations</b>: Physics-Informed AI, Unsupervised Learning, Graph Neural Networks, Pose Estimation, Object Detection</li>
 </ul>
 </details>
 
@@ -59,8 +68,8 @@ Full Stack Developer, AI/ML Developer, and 3D Artist with strong experience in b
 <br />
 <ul>
   <li><b>Dev Tools</b>: Git, VS Code, PyCharm, Google Colab</li>
-  <li><b>Design</b>: Figma, Blender</li>
-  <li><b>Hardware</b>: Arduino IDE, ESP32, IoT Integration</li>
+  <li><b>Design</b>: Figma, Blender (3D Modeling & Animation)</li>
+  <li><b>Hardware</b>: Arduino IDE, ESP32, GPS Integration, IoT Systems</li>
 </ul>
 </details>
 
@@ -68,13 +77,13 @@ Full Stack Developer, AI/ML Developer, and 3D Artist with strong experience in b
 
 ### 💼 Professional Experience
 
-<details>
+<details open>
 <summary><b>Software Mentor and Developer</b> | Tessat Space Pvt. Ltd. (Startup)</summary>
 <i>Feb 2025 – Present | Kottayam, Kerala, India</i>
 <ul>
-  <li>Mentoring software development team.</li>
-  <li>Developing full-stack applications and conducting AI/ML research.</li>
-  <li><b>Tech</b>: Full-Stack, AI/ML</li>
+  <li>Mentoring software development team and overseeing production-ready solutions.</li>
+  <li>Developing full-stack applications and conducting advanced AI/ML research.</li>
+  <li><b>Tech</b>: Full-Stack, AI/ML, Research & Mentoring</li>
 </ul>
 </details>
 
@@ -83,7 +92,8 @@ Full Stack Developer, AI/ML Developer, and 3D Artist with strong experience in b
 <i>Dec 2025 – Mar 2026 | Chiayi, Taiwan</i>
 <ul>
   <li>Digital twin design for flood inundation using physics-informed neural networks.</li>
-  <li><b>Tech</b>: Physics-Informed Neural Networks, Digital Twin, Python, PyTorch</li>
+  <li>Integrated HEC-RAS outputs with GNNs for interpretable predictions.</li>
+  <li><b>Tech</b>: PINNs, Digital Twin, Python, PyTorch, GNNs</li>
 </ul>
 </details>
 
@@ -91,9 +101,46 @@ Full Stack Developer, AI/ML Developer, and 3D Artist with strong experience in b
 <summary><b>Web-Master</b> | IEEE Computer Society Student Chapter</summary>
 <i>Dec 2024 – Dec 2025 | Saintgits College of Engineering</i>
 <ul>
-  <li>Implemented web solutions for events, announcements, and engagement.</li>
+  <li>Implemented web solutions for events, announcements, and chapter engagement.</li>
+  <li><b>Tech</b>: Web Development, Community Management</li>
 </ul>
 </details>
+
+<details>
+<summary><b>Intern</b> | National Chung Cheng University, Taiwan</summary>
+<i>July 2024 – Sep 2024 | Chiayi, Taiwan</i>
+<ul>
+  <li>Developed a full-stack stock prediction website with pattern detection.</li>
+  <li><b>Tech</b>: Django, React.js, PostgreSQL</li>
+</ul>
+</details>
+
+<details>
+<summary><b>Teacher (Part Time)</b> | Gurukulam Tuition Center</summary>
+<i>Feb 2024 – Dec 2025 | Kottayam, Kerala, India</i>
+<ul>
+  <li>Taught Computer Science (C++, Networking) and Core Sciences (Physics, Math).</li>
+</ul>
+</details>
+
+<details>
+<summary><b>Chief Marketing Officer</b> | IEDC@Saintgits</summary>
+<i>July 2023 – Feb 2024 | Kottayam, Kerala, India</i>
+<ul>
+  <li>Leadership and innovation management at the Innovation and Entrepreneurship Development Centre.</li>
+</ul>
+</details>
+
+---
+
+### 🎓 Education
+
+- **Master of Computer Applications** | Saintgits College of Engineering, Kottayam
+  - *2021 – 2026* | **CGPA: 7.54/10**
+- **Plus Two (Senior Secondary)** | Bharatiya Vidya Bhavans Vidya Mandir, Thrissur
+  - *2020 – 2021* | **Score: 80%**
+- **Tenth Standard (Higher Secondary)** | Mount Carmel Vidhyaniketan, Kottayam
+  - *2018 – 2019* | **Score: 91.4%**
 
 ---
 
@@ -105,18 +152,25 @@ Full Stack Developer, AI/ML Developer, and 3D Artist with strong experience in b
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[TrueSeal](https://trueseal.in)** | Verified Resume & Hiring Platform with AI interviews. | Next.js, AI/ML |
-| **[Flood Twin](https://github.com/AswinSanosh/FLOOD)** | Physics-Informed AI for real-time flood prediction. | Python, PyTorch |
-| **[Stock Prediction](https://github.com/AswinSanosh/chic2)** | Full-stack platform with pattern detection. | React.js, Django |
-| **[Helekin Tech](https://helekin.in)** | 3D-printing e-commerce platform with customization. | Next.js, Three.js |
+| **[TrueSeal](https://trueseal.in)** | Verified Resume & Hiring Platform with AI interviews. | Next.js, AI/ML, TS |
+| **[Flood Twin](https://github.com/AswinSanosh/FLOOD)** | Physics-Informed AI for real-time flood prediction. | Python, PyTorch, GNN |
+| **[Stock Prediction](https://github.com/AswinSanosh/chic2)** | Full-stack platform with pattern detection. | React.js, Django, Postgres |
+| **[Body Shape AI](https://github.com/AswinSanosh/chic2)** | 3D body geometry extraction and classification. | Python, OpenCV, OpenPose |
+| **[GPR Classification](https://github.com/AswinSanosh/GPR-FINAL)** | Unsupervised clustering for road-distress patterns. | Keras, DINOv3, DBSCAN |
+| **[Industrial Tool CV](https://github.com/AswinSanosh/HOG-SVG)** | Real-time tool detection using HOG and Hu Moments. | C++, OpenCV |
+| **[Bus Tracker](https://github.com/AswinSanosh/bus_tracker)** | GPS-based real-time tracking + ticketing system. | Next.js, IoT, GPS |
+| **[Samyuktha 2025](https://github.com/AswinSanosh/Samyukta2k25)** | Official college fest techno-cultural platform. | Next.js, Redux, MySQL |
+| **[CANSAT Flight SW](https://github.com/AswinSanosh/CANSAT)** | Telemetry dashboards for satellite operations. | Django, ESP32, IoT |
+| **[Helekin Tech](https://helekin.in)** | 3D-printing e-commerce platform with customization. | Next.js, Three.js, MySQL |
+| **[Redwills Studio](https://redwills.com)** | Immersive 3D interactive studio website. | Next.js, WebGL |
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinSanosh&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</p>
+### 🏆 Certifications & Achievements
+- 💻 **SQL, Databases, and Django** – Coursera
+- 🤖 **Machine Learning & Data Science** – Udemy
+- 🔌 **Electronics and PCB Design** – Udemy
+- 🏆 **Winner – Meta SparkAR Competition** (April 2021)
 
 ---
 
@@ -137,5 +191,5 @@ Full Stack Developer, AI/ML Developer, and 3D Artist with strong experience in b
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AswinSanosh&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aswinsanosh&color=blueviolet&style=flat-square" alt="Profile Views" />
 </div>
