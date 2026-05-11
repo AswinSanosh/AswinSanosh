@@ -17,7 +17,6 @@
 
   <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AswinSanosh&theme=radical" alt="GitHub Streak Stats" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinSanosh&theme=react-dark&hide_border=true&area=true" width="400" alt="Activity Graph" />
   </div>
 
 </div>
