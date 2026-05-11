@@ -5,7 +5,7 @@
 
   # 👋 Hi, I'm Aswin Sanosh!
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=10&color=47A1FF&center=true&vCenter=true&width=2000&lines=Full+Stack+Developer;AI%2FML+Developer;3D+Artist;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=0&color=47A1FF&center=true&vCenter=true&width=200&lines=Full+Stack+Developer;AI%2FML+Developer;3D+Artist;" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/aswinsanosh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
