@@ -15,10 +15,6 @@
 
   <br />
 
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AswinSanosh&theme=radical" alt="GitHub Streak Stats" />
-  </div>
-
 </div>
 
 ---
@@ -177,6 +173,9 @@ Full Stack Developer, AI/ML Developer, and 3D Artist with strong experience in b
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinSanosh&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AswinSanosh&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 ---
