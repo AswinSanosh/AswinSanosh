@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="./banner.jpg" width="100%" alt="Aswin Sanosh Banner" />
+  <img src="banner.jpg" width="100%" alt="Aswin Sanosh Banner" />
 
   # 🚀 Hi, I'm Aswin Sanosh!
   ### Full Stack Developer | AI/ML Engineer | Real-Time Systems Specialist
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aswinsanosh)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswinsanosh)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AswinSanosh)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://aswinsanosh.vercel.app)
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AswinSanosh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinSanosh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AswinSanosh&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinSanosh&layout=compact&theme=radical)
 
 </div>
 
@@ -26,7 +26,7 @@ Full Stack Developer and AI/ML Engineer with strong experience in building scala
 ### 📞 Contact Details
 - 📧 **Email**: [aswinsanosh97@gmail.com](mailto:aswinsanosh97@gmail.com)
 - 📱 **Phone**: [+91 89439 63650](tel:+918943963650)
-- 🔗 **LinkedIn**: [linkedin.com/in/aswinsanosh](https://linkedin.com/in/aswinsanosh)
+- 🔗 **LinkedIn**: [linkedin.com/in/aswinsanosh](https://www.linkedin.com/in/aswinsanosh)
 - 📂 **GitHub**: [github.com/AswinSanosh](https://github.com/AswinSanosh)
 - 📍 **Location**: Ernakulam (Kochi), Kerala, India
 
@@ -122,9 +122,9 @@ Problem Solving • Critical Thinking • Leadership • Technical Mentoring •
 
 ### 📈 Activity Graph
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinSanosh&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</p>
+</div>
 
 <br />
 
