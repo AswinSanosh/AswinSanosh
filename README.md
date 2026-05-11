@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="aswin_sanosh_banner.png" width="100%" alt="Aswin Sanosh Banner" />
+  <img src="banner.jpg" width="100%" alt="Aswin Sanosh Banner" />
 
   <br />
 
