@@ -1,81 +1,70 @@
-# 👋 Hi, I'm Aswin Sanosh  
+<div align="center">
+  <img src="./aswin_sanosh_banner.png" width="100%" alt="Aswin Sanosh Banner" />
 
-💡 A passionate **Software Developer, Mentor, and Entrepreneur** from Kerala, India.  
-⚡ Currently exploring **AI, Cloud, and Scalable Systems** while contributing to tech communities.  
-🌍 I believe in building impactful solutions that bridge technology with real-world needs.  
+  # 🚀 Hi, I'm Aswin Sanosh!
+  ### Full Stack Developer | AI/ML Engineer | Real-Time Systems Specialist
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aswinsanosh)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AswinSanosh)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://aswinsanosh.com)
 
----
+  <br />
 
-## 👔 Professional Experience  
+  <img src="https://github-readme-stats.vercel.app/api?username=AswinSanosh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinSanosh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
-- 🚀 **Founder** @ [Helekin](https://helekin.in/) *(Aug 2025 – Present)*  
-   Building innovative solutions in **start-up leadership**.  
-
-- 👨‍🏫 **Software Mentor** @ [Tessat Space Pvt. Ltd.](https://tessat.space/)) *(Feb 2025 – Present)*  
-   Mentoring students & developers in **software engineering & system design**.  
-
-- 🌐 **Webmaster** @ IEEE CS SBC, Saintgits College of Engineering *(Dec 2024 – Present)*  
-   Driving technical leadership in **web technologies & community building**.  
-
-- 📚 **Teacher (Part-time)** @ Gurukulam Tuition Centre *(Feb 2024 – Present)*  
-   Teaching **Physics & Computer Science** with a focus on conceptual clarity.  
-
-- 🌏 **Intern** @ National Chung Cheng University, Taiwan *(Jul 2024 – Sep 2024)*  
-   Research & development internship under **Taiwan Education & Experience Program (TEEP)**.  
-   Worked with **React.js, PostgreSQL, and scalable backend systems**.  
+</div>
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AswinSanosh&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=F85D7F&icon_color=79FF97&text_color=A9FEF7&cache_seconds=60" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AswinSanosh&count_private=true&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" height="180px" />
+### 👨‍💻 About Me
+
+I am a **Full Stack Developer** and **AI/ML Engineer** passionate about building scalable web applications, real-time systems, and intelligent data-driven solutions. I have a strong background in developing end-to-end platforms and integrating AI models for practical applications like flood forecasting and industrial automation.
+
+- 🔭 I’m currently working as a **Software Mentor and Developer** at **Tessat Space**.
+- 🎓 Recently completed an Internship at **National Chung Cheng University, Taiwan**, working on **Digital Twins** and **Physics-Informed AI**.
+- 🌱 I’m currently diving deeper into **Graph Neural Networks** and **Unsupervised Learning**.
+- 💬 Ask me about **Next.js, Django, Computer Vision, or IoT**.
+- 📫 Reach me at: **aswinsanosh97@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,dart,html,css,django,react,nextjs,nodejs,nestjs,express,flutter,postgres,mysql,mongodb,firebase,supabase,pytorch,tensorflow,opencv,git,figma,arduino,blender" />
+  </a>
 </p>
 
 ---
 
-## 💻 Most Used Languages  
+### 📈 Activity Graph
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinSanosh&count_private=true&layout=donut-vertical&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=A9FEF7&hide_border=true" height="250px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinSanosh&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-## 🏆 Achievements & Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AswinSanosh&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-</p>
+### 🌟 Featured Projects
+
+- **[TrueSeal](https://trueseal.in)**: Verified Resume & Hiring Platform using AI/ML and Next.js.
+- **[Digital Twin for Flood Inundation](https://github.com/AswinSanosh/FLOOD)**: Physics-Informed AI system for real-time flood prediction.
+- **[Stock Prediction Website](https://github.com/AswinSanosh/chic2)**: Full-stack platform for stock analysis and pattern detection.
+- **[GPR Image Classification](https://github.com/AswinSanosh/GPR-FINAL)**: Unsupervised clustering pipeline for road-distress patterns.
+- **[Helekin Technologies](https://helekin.in)**: 3D-printing e-commerce platform with interactive customization.
 
 ---
 
-## 🚀 Tools & Technologies  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,python,django,html,css,tailwind,git,github,docker,postgresql,linux" />
-</p>
+### 🏆 Certifications & Achievements
+- 📜 Developing Applications with SQL, Databases, and Django – Coursera
+- 🤖 Python for Machine Learning & Data Science – Udemy
+- 🔌 Electronics and PCB Design – Udemy
+- 🏆 Winner – Meta SparkAR Competition (April 2021)
 
----
+<br />
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/aswinsanosh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:aswinsanosh@helekin.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://helekin.in" target="_blank">Helekin</a>
-</p>
-
----
-
-## 📈 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AswinSanosh&count_private=true&theme=radical&bg_color=0D1117&title_color=F85D7F&color=A9FEF7&line=79FF97&point=F85D7F" />
-</p>
-
----
-
-## ✨ About Me  
-> *“Technology is not just about code — it’s about creating value, solving problems, and inspiring people.”*  
-
-📍 Based in Kerala, India  
-🌱 Currently learning **AI/ML, Cloud Architecture, and Scalable SaaS Design**  
-🤝 Open to collaboration on **Open Source, AI, and Product Development**  
-
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AswinSanosh&color=blueviolet" alt="Profile Views" />
+</div>
