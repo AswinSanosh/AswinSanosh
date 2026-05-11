@@ -106,7 +106,7 @@ Full Stack Developer and AI/ML Engineer with strong experience in building scala
 ### 🌟 Featured Projects
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF9E2C&center=true&vCenter=true&width=400&lines=Check+Out+My+Projects!" alt="Projects SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=10&color=FF9E2C&center=true&vCenter=true&width=1000&lines=Check+Out+My+Projects!" alt="Projects SVG" />
 </div>
 
 | Project | Description | Tech Stack |
