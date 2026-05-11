@@ -3,9 +3,9 @@
 
   <br />
 
-  # <img src="https://raw.githubusercontent.com/Martin005/Martin005/master/svg/hello.svg" width="35px"> Hi, I'm Aswin Sanosh!
+  # 👋 Hi, I'm Aswin Sanosh!
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=10&color=47A1FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI%2FML+Developer;3D+Artist;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=400&color=47A1FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI%2FML+Developer;3D+Artist;Problem+Solver;Tech+Mentor" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://www.linkedin.com/in/aswinsanosh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -15,16 +15,10 @@
 
   <br />
 
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=AswinSanosh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinSanosh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-      </td>
-    </tr>
-  </table>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=aswinsanosh&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinsanosh&layout=compact&theme=radical" alt="Top Languages" />
+  </div>
 
 </div>
 
@@ -33,7 +27,7 @@
 ### 👨‍💻 About Me
 
 <p align="justify">
-Full Stack Developer and AI/ML Engineer with strong experience in building scalable web applications, real-time systems, and intelligent data-driven solutions. Proficient in developing end-to-end platforms using <b>Django, React.js, and modern backend frameworks</b>, with hands-on expertise in <b>computer vision, unsupervised learning, and physics-informed AI models</b>. Experienced in integrating real-time data pipelines, REST APIs, and IoT systems for practical applications including stock prediction, flood forecasting, and smart transport systems. Adept at mentoring teams, optimizing system performance, and delivering production-ready solutions in research-driven and startup environments.
+Full Stack Developer, AI/ML Developer, and 3D Artist with strong experience in building scalable web applications, real-time systems, and intelligent data-driven solutions. Proficient in developing end-to-end platforms using <b>Django, React.js, and modern backend frameworks</b>, with hands-on expertise in <b>computer vision, unsupervised learning, and physics-informed AI models</b>. Experienced in integrating real-time data pipelines, REST APIs, and IoT systems for practical applications including stock prediction, flood forecasting, and smart transport systems. Adept at mentoring teams, optimizing system performance, and delivering production-ready solutions in research-driven and startup environments.
 </p>
 
 ---
@@ -106,7 +100,7 @@ Full Stack Developer and AI/ML Engineer with strong experience in building scala
 ### 🌟 Featured Projects
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=10&color=FF9E2C&center=true&vCenter=true&width=1000&lines=Check+Out+My+Projects!" alt="Projects SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=400&color=FF9E2C&center=true&vCenter=true&width=400&lines=Check+Out+My+Projects!" alt="Projects SVG" />
 </div>
 
 | Project | Description | Tech Stack |
